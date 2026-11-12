@@ -1,0 +1,43 @@
+{
+  "reference": {
+    "observed_covariance": [
+      [
+        4,
+        2
+      ],
+      [
+        2,
+        9
+      ]
+    ],
+    "mean_error_covariance": [
+      [
+        1,
+        0.5
+      ],
+      [
+        0.5,
+        5
+      ]
+    ]
+  },
+  "partial_correlation_queries": [
+    {
+      "pair": [
+        "x1",
+        "x2"
+      ],
+      "given": []
+    }
+  ],
+  "projection": {
+    "response": "x2",
+    "predictors": [
+      "x1"
+    ]
+  },
+  "psd_tolerance": 1e-10,
+  "bootstrap_repeats": 200,
+  "seed": 11130204,
+  "repair_comparison": true
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/moments.json",
+    "sha256": "abfefcf07405ccf6c9989a6b9e9e87188b2f44eae17d66a308d9bf37ce4921aa",
+    "size_bytes": 559
+  },
+  {
+    "path": "fixtures/observations.json",
+    "sha256": "928ed05bf5de854cfa2065b1493a29c0728b170c48b99d29cccfb3c193ab56d3",
+    "size_bytes": 1042
+  }
+]
